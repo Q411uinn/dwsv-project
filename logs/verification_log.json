@@ -1,0 +1,350 @@
+[
+  {
+    "timestamp": "2026-03-28T15:43:37.686594",
+    "subdomain": "www",
+    "status": "valid",
+    "root": "90dee30999dd56a19f76ce3a08c8d91babe5049d88bbaa96137f9c1f324a5f8d"
+  },
+  {
+    "timestamp": "2026-03-28T15:43:37.686594",
+    "subdomain": "api",
+    "status": "valid",
+    "root": "90dee30999dd56a19f76ce3a08c8d91babe5049d88bbaa96137f9c1f324a5f8d"
+  },
+  {
+    "timestamp": "2026-03-28T15:43:37.686594",
+    "subdomain": "mail",
+    "status": "valid",
+    "root": "90dee30999dd56a19f76ce3a08c8d91babe5049d88bbaa96137f9c1f324a5f8d"
+  },
+  {
+    "timestamp": "2026-03-28T15:43:37.686594",
+    "subdomain": "internal",
+    "status": "valid",
+    "root": "90dee30999dd56a19f76ce3a08c8d91babe5049d88bbaa96137f9c1f324a5f8d"
+  },
+  {
+    "timestamp": "2026-03-28T15:56:20.796066",
+    "subdomain": "www",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26"
+  },
+  {
+    "timestamp": "2026-03-28T15:56:20.796066",
+    "subdomain": "api",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26"
+  },
+  {
+    "timestamp": "2026-03-28T15:56:20.796066",
+    "subdomain": "mail",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26"
+  },
+  {
+    "timestamp": "2026-03-28T15:56:20.796066",
+    "subdomain": "internal",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26"
+  },
+  {
+    "timestamp": "2026-03-28T15:56:20.796066",
+    "subdomain": "newsub",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26"
+  },
+  {
+    "timestamp": "2026-03-29T22:01:20.926059",
+    "subdomain": "www",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:01:20.926059",
+    "subdomain": "api",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:01:20.926059",
+    "subdomain": "mail",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:01:20.926059",
+    "subdomain": "internal",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:05:09.699380",
+    "subdomain": "www",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:05:09.699380",
+    "subdomain": "api",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:05:09.699380",
+    "subdomain": "mail",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:05:09.699380",
+    "subdomain": "internal",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:05:38.846309",
+    "subdomain": "www",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:05:38.846309",
+    "subdomain": "api",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:05:38.846309",
+    "subdomain": "mail",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:05:38.846309",
+    "subdomain": "internal",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:05:38.846309",
+    "subdomain": "newsub",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:05:48.916845",
+    "subdomain": "www",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:05:48.916845",
+    "subdomain": "api",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:05:48.916845",
+    "subdomain": "mail",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:05:48.916845",
+    "subdomain": "internal",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:05:48.916845",
+    "subdomain": "newsub",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:09:13.543154",
+    "subdomain": "www",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:09:13.543154",
+    "subdomain": "api",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:09:13.543154",
+    "subdomain": "mail",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:09:13.543154",
+    "subdomain": "internal",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-03-29T22:09:13.543154",
+    "subdomain": "newsub",
+    "status": "missing_proof",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-04-07T16:30:57.374382",
+    "subdomain": "www",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-04-07T16:30:57.374382",
+    "subdomain": "api",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-04-07T16:30:57.374382",
+    "subdomain": "mail",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-04-07T16:30:57.374382",
+    "subdomain": "internal",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-04-07T16:30:57.374382",
+    "subdomain": "newsub",
+    "status": "missing_proof",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-04-10T14:06:33.454244",
+    "subdomain": "www",
+    "status": "verification_error",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-04-10T14:06:33.454244",
+    "subdomain": "api",
+    "status": "verification_error",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-04-10T14:06:33.454244",
+    "subdomain": "mail",
+    "status": "verification_error",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-04-10T14:06:33.454244",
+    "subdomain": "internal",
+    "status": "verification_error",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-04-10T14:06:33.454244",
+    "subdomain": "newsub",
+    "status": "verification_error",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-04-10T14:06:33.454244",
+    "subdomain": "fake",
+    "status": "verification_error",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": null
+  },
+  {
+    "timestamp": "2026-04-10T14:10:20.274297",
+    "subdomain": "www",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": "None"
+  },
+  {
+    "timestamp": "2026-04-10T14:10:20.274297",
+    "subdomain": "api",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": "None"
+  },
+  {
+    "timestamp": "2026-04-10T14:10:20.274297",
+    "subdomain": "mail",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": "None"
+  },
+  {
+    "timestamp": "2026-04-10T14:10:20.274297",
+    "subdomain": "internal",
+    "status": "valid",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": "None"
+  },
+  {
+    "timestamp": "2026-04-10T14:10:20.274297",
+    "subdomain": "newsub",
+    "status": "missing_proof",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": "None"
+  },
+  {
+    "timestamp": "2026-04-10T14:10:20.274297",
+    "subdomain": "fake",
+    "status": "missing_proof",
+    "root": "cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26",
+    "error": "None"
+  },
+  {
+    "timestamp": "2026-04-10T23:00:33.187435",
+    "subdomain": "ALL",
+    "status": "auth_query_failed",
+    "root": null,
+    "error": "\u274c DNSSEC \u9a8c\u8bc1\u5931\u8d25"
+  },
+  {
+    "timestamp": "2026-04-10T23:00:43.333098",
+    "subdomain": "ALL",
+    "status": "auth_query_failed",
+    "root": null,
+    "error": "\u274c DNSSEC \u9a8c\u8bc1\u5931\u8d25"
+  }
+]
