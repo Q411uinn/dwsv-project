@@ -50,3 +50,85 @@ timestamp,subdomain,status,root
 2026-04-10T14:10:20.274297,fake,missing_proof,cbcdc117b9a65e09cdab5b054b63782b3328626979983287fd35f1b1357fda26,None
 2026-04-10T23:00:33.187435,ALL,auth_query_failed,,❌ DNSSEC 验证失败
 2026-04-10T23:00:43.333098,ALL,auth_query_failed,,❌ DNSSEC 验证失败
+2026-05-03T22:33:17.203391,www,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T22:33:17.203391,api,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T22:33:17.203391,mail,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T22:33:17.203391,internal,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T22:33:17.203391,newsub,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T22:33:17.203391,evil,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T22:37:21.151542,sub0,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,sub1,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,sub2,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,sub3,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,sub4,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,sub5,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,sub6,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,sub7,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,sub8,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,sub9,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,sub10,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,sub11,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,sub12,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,sub13,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,sub14,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,sub15,True,True,False,False,False,False,"Step3: 时间戳超期 (ts=1777818367, now=1777819041)"
+2026-05-03T22:37:21.151542,evil,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T22:37:21.151542,hacker,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T22:37:21.151542,fake,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T22:39:23.541711,sub0,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,sub1,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,sub2,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,sub3,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,sub4,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,sub5,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,sub6,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,sub7,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,sub8,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,sub9,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,sub10,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,sub11,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,sub12,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,sub13,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,sub14,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,sub15,True,True,True,True,True,True,全部通过
+2026-05-03T22:39:23.541711,evil,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T22:39:23.541711,hacker,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T22:39:23.541711,fake,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T23:11:26.924200,sub0,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:11:26.924200,sub1,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:11:26.924200,sub2,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:11:26.924200,sub3,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:11:26.924200,sub4,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:11:26.924200,sub5,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:11:26.924200,sub6,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:11:26.924200,sub7,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:11:26.924200,sub8,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:11:26.924200,sub9,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:11:26.924200,sub10,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:11:26.924200,sub11,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:11:26.924200,sub12,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:11:26.924200,sub13,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:11:26.924200,sub14,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:11:26.924200,sub15new_service,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T23:11:26.924200,evil,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T23:11:26.924200,hacker,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T23:11:26.924200,fake,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T23:12:25.166188,sub0,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:12:25.166188,sub1,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:12:25.166188,sub2,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:12:25.166188,sub3,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:12:25.166188,sub4,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:12:25.166188,sub5,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:12:25.166188,sub6,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:12:25.166188,sub7,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:12:25.166188,sub8,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:12:25.166188,sub9,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:12:25.166188,sub10,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:12:25.166188,sub11,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:12:25.166188,sub12,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:12:25.166188,sub13,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:12:25.166188,sub14,True,False,False,False,False,False,"Step2: epoch 不一致 (DNS=4, proof=3)"
+2026-05-03T23:12:25.166188,sub15new_service,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T23:12:25.166188,evil,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T23:12:25.166188,hacker,True,False,False,False,False,False,未授权子域（无 proof）
+2026-05-03T23:12:25.166188,fake,True,False,False,False,False,False,未授权子域（无 proof）

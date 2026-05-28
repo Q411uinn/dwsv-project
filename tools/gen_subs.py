@@ -16,3 +16,4 @@ with open(subs_path, "w") as f:
         f.write(f"sub{i}\n")
 
 print(f"生成 {n} 个子域 -> {subs_path}")
+

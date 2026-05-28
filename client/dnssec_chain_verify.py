@@ -50,3 +50,4 @@ def verify_txt_with_dnssec(domain, zone):
     except Exception as e:
         print("❌ DNSSEC 验证失败:", e)
         return None
+

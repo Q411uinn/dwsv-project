@@ -25,3 +25,4 @@ def query_proof(subdomain):
             proof.append((int(direction), h.strip()))
         return proof
     return None
+

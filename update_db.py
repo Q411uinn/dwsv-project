@@ -92,3 +92,4 @@ with open(DB_FILE, "w") as f:
 
 print(f"✅ db.example.com 更新完成，root={root}")
 print("请执行: sudo rndc reload example.com 让 BIND9 生效")
+

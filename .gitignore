@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# venv
+venv/
+.env/
+
+# benchmark outputs
+*.log
+
+# certs
+certs/
+
+# cache
+.cache/
+
+# vscode
+.vscode/
+
+# pycharm
+.idea/
+
+# system
+.DS_Store
+
+# generated proofs / temp
+*.tmp

@@ -72,3 +72,4 @@ if __name__ == "__main__":
     zone = "example.com"
 
     dnssec_verify(domain, zone)
+
